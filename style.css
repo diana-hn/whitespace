@@ -179,11 +179,6 @@ body {
     padding-bottom: 60px;
 }
 
-.management-img{
-    width: 748px;
-    height: 547px;
-}
-
 .management-content button {
     background-color: #4F9CF9;
     border: none;
@@ -206,5 +201,11 @@ body {
 .manage-btn img {
     height: 14px;
     width: 14px;
+}
+
+.management-img img{
+    width: 748px;
+    height: 547px;
+
 }
 
