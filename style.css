@@ -226,6 +226,7 @@ body {
 
 .manage-btn:hover{
     background-color: #4489dd;
+    cursor: pointer;
 }
 
 .manage-btn {
